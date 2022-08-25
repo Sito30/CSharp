@@ -1,0 +1,15 @@
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\bin\Debug\net6.0\Architect-Arithmetic.exe
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\bin\Debug\net6.0\Architect-Arithmetic.deps.json
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\bin\Debug\net6.0\Architect-Arithmetic.runtimeconfig.json
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\bin\Debug\net6.0\Architect-Arithmetic.dll
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\bin\Debug\net6.0\Architect-Arithmetic.pdb
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\obj\Debug\net6.0\Architect-Arithmetic.csproj.AssemblyReference.cache
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\obj\Debug\net6.0\Architect-Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\obj\Debug\net6.0\Architect-Arithmetic.AssemblyInfoInputs.cache
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\obj\Debug\net6.0\Architect-Arithmetic.AssemblyInfo.cs
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\obj\Debug\net6.0\Architect-Arithmetic.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\obj\Debug\net6.0\Architect-Arithmetic.dll
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\obj\Debug\net6.0\refint\Architect-Arithmetic.dll
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\obj\Debug\net6.0\Architect-Arithmetic.pdb
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\obj\Debug\net6.0\Architect-Arithmetic.genruntimeconfig.cache
+D:\Visual Studio Code\CSharp\Architect-Arithmetic\obj\Debug\net6.0\ref\Architect-Arithmetic.dll

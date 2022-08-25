@@ -1,0 +1,15 @@
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\bin\Debug\net6.0\Exquisite-Corpse.exe
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\bin\Debug\net6.0\Exquisite-Corpse.deps.json
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\bin\Debug\net6.0\Exquisite-Corpse.runtimeconfig.json
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\bin\Debug\net6.0\Exquisite-Corpse.dll
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\bin\Debug\net6.0\Exquisite-Corpse.pdb
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\obj\Debug\net6.0\Exquisite-Corpse.csproj.AssemblyReference.cache
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\obj\Debug\net6.0\Exquisite-Corpse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\obj\Debug\net6.0\Exquisite-Corpse.AssemblyInfoInputs.cache
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\obj\Debug\net6.0\Exquisite-Corpse.AssemblyInfo.cs
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\obj\Debug\net6.0\Exquisite-Corpse.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\obj\Debug\net6.0\Exquisite-Corpse.dll
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\obj\Debug\net6.0\refint\Exquisite-Corpse.dll
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\obj\Debug\net6.0\Exquisite-Corpse.pdb
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\obj\Debug\net6.0\Exquisite-Corpse.genruntimeconfig.cache
+D:\Visual Studio Code\CSharp\Exquisite-Corpse\obj\Debug\net6.0\ref\Exquisite-Corpse.dll

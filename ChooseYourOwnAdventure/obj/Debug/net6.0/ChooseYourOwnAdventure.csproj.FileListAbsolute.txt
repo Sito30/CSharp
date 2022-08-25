@@ -1,0 +1,15 @@
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.exe
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.deps.json
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.runtimeconfig.json
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.dll
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.pdb
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.csproj.AssemblyReference.cache
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.AssemblyInfo.cs
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.dll
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\obj\Debug\net6.0\refint\ChooseYourOwnAdventure.dll
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.pdb
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.genruntimeconfig.cache
+D:\Visual Studio Code\CSharp\ChooseYourOwnAdventure\obj\Debug\net6.0\ref\ChooseYourOwnAdventure.dll
